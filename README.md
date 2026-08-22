@@ -66,13 +66,6 @@ The dashboard focuses on business questions such as:
 * How does profitability change across different segments?
 * What areas of the business require attention?
 
-## 📊 Dashboard Preview
-
-*Add screenshots of the completed dashboard here.*
-
-Example:
-
-![Dashboard Preview] screenshots/dashboard 1.png, dashboard 2.png
 
 ## 🚀 How to Use
 
