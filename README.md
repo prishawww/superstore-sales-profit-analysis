@@ -72,7 +72,7 @@ The dashboard focuses on business questions such as:
 
 Example:
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview] screenshots/dashboard 1.png, dashboard 2.png
 
 ## 🚀 How to Use
 
